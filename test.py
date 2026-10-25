@@ -1,6 +1,4 @@
-import random
-
-secret = random.randint(1, 50)
+secret = 27
 
 attempts = 0
 max_attempts = 5
